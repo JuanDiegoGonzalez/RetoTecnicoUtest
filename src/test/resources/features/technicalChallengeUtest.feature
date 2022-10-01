@@ -13,5 +13,5 @@ Feature: Technical Challenge Utest
       | <strTitle> |
 
     Examples:
-      | strFirstName | strLastName    | strEmailAddress           | strPassword | strTitle                                                                |
+      | strFirstName | strLastName    | strEmailAddress  | strPassword | strTitle                                                                |
       | Juan Diego   | Gonzalez Gomez | correo@gmail.com | Prueba1234  | Welcome to the world's largest community of freelance software testers! |
